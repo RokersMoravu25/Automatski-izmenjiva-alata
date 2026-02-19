@@ -10,7 +10,7 @@ Vodeći deo | Alatski deo | Statični deo
 <img width="243" height="278" alt="СЕ4" src="https://github.com/user-attachments/assets/cb432a67-f47f-4907-8c39-12b5507dc9be" />
 
 <p align="center">
-**Zadatak robota** je da sa jednim alatom napravi konturu oko predmeta, što simulira obradu na predmetu rada, potom da sa drugim alatom prenese predmet rada sa jednog mesta na drugo, i ponovi postupak obrade.
+Zadatak robota je da sa jednim alatom napravi konturu oko predmeta, što simulira obradu na predmetu rada, potom da sa drugim alatom prenese predmet rada sa jednog mesta na drugo, i ponovi postupak obrade.
 </p>
 
 <p align="center">
